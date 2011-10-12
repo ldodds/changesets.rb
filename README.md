@@ -21,7 +21,7 @@ Changesets.rb is packaged as a Ruby Gem and can be installed as follows:
 	
 The source for the project is maintained in github at:
 
-http://github.com/kasabi/kasabi.rb
+http://github.com/ldodds/changesets.rb
 
 USAGE
 -----
